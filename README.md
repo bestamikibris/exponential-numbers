@@ -1,2 +1,2 @@
 # exponential-numbers
-patikaDev
+bu proje patikaDev ödevidir
